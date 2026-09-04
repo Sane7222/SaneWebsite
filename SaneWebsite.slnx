@@ -1,0 +1,5 @@
+<Solution>
+  <Folder Name="/src/">
+    <Project Path="src/Sane.Web/Sane.Web.csproj" />
+  </Folder>
+</Solution>

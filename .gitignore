@@ -1,0 +1,23 @@
+# .NET
+**/bin/
+**/obj/
+publish/
+
+# Node
+**/node_modules/
+**/dist/
+*.tsbuildinfo
+
+# IDE and OS
+.vs/
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+
+# Local configuration
+.env
+.env.*
+!.env.example
+*.user
+*.suo
